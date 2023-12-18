@@ -21,3 +21,16 @@
 - `BuildDataset.ipynb`
     - Makes a `networkx` graph from the follower and following dictionaries, and then makes edge lists train-test splits for each fold of the data. Saves in `train_test/`
  
+### Stored Data
+
+- `adj_matrices`
+    - a bunch of pickle `networkx` objects representing the full graph
+- `train_test`
+    - a collection of pickled edge lists representing folds in the data
+- `graph_images`
+    - some stored figures for our presentation and final report
+- `data_dictionaries`
+    - pickled dictionaries of  user : list of followers and user : list of following
+- `data_csv`
+    - data used to seed the construction of the above dictionaries
+  
