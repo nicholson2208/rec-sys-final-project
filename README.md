@@ -4,7 +4,7 @@
 
 CORGI (shorthand for “Community-Oriented Recommendation and Governance Infrastructure”) is an ongoing project within That Recommender Systems Lab (TRSL) at the University of Colorado Boulder that hopes to tackle the tensions that we assume users of federated social media platforms maintain — more specifically, on Mastodon. CORGI attempts to complete three tasks: implement post and people recommendation within Mastodon instances, provide governance infrastructure to enable instance members to participate in the design and deployment of a recommendation system, and provide an algorithmic recourse dashboard for content creators to enable them to make sense of how their content is “affected” by the community’s recommender system. This is a lofty goal. For the sake of this class, we limit our scope to recommendations for new users to follow.
 
-[To read the full report](https://docs.google.com/document/d/1zN_Er-2T297abR18SN8EFXsdIyUIrjrNqsDDmv0WN5w/edit?usp=sharing)
+[To read the full report](https://github.com/nicholson2208/rec-sys-final-project/blob/main/INFO%205612%20Final%20Project%20Report%20-%20CORGI.pdf)
 
 ## Installing this project
 - clone it
