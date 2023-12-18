@@ -33,4 +33,15 @@
     - pickled dictionaries of  user : list of followers and user : list of following
 - `data_csv`
     - data used to seed the construction of the above dictionaries
-  
+ 
+### Analysis
+
+- `PageRank.ipynb`
+    - imports `PageRank_modules` and runs PageRank on our dataset
+- `light_gcn.ipynb.ipynb`
+    - imports `LightGCN_modules` and runs GCN on our dataset
+- `factorization_machine.ipynb`
+    - imports `factorization_machine_modules` and runs a Factorization Machine on our dataset
+- `ndcg_precision_graph.ipynb`
+    - aggregates the results from the above and creates a graph
+
